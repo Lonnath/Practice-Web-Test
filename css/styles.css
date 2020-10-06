@@ -70,3 +70,12 @@ footer {
 .img-center-content {
     margin: 20px;
 }
+
+.container-extra {
+    background-color: rgb(248, 64, 248);
+    width: 100%;
+    height: auto;
+    text-align: center;
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 25px;
+}
